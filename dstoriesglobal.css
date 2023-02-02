@@ -1,0 +1,26 @@
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-base: 14px;
+  --font-size-lg: 16px;
+  --font-size-xl: 23px;
+  --font-size-2xl: 24px;
+  --font-size-3xl: 30px;
+  --font-size-4xl: 48px;
+  --font-size-5xl: 90px;
+
+  /* Colors */
+  --color-gray: rgba(0, 0, 0, 0.2);
+  --color-black: #000;
+  --color-gold: #fae014;
+  --color-khaki: #fef083;
+  --color-gainsboro: #d9d9d9;
+  --color-crimson: #eb2026;
+
+  /* border radiuses */
+  --br-sm: 2px;
+  --br-md: 19px;
+  --br-lg: 22px;
+}
